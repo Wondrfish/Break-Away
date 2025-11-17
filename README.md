@@ -118,12 +118,11 @@ Final score is shown on the Game Over screen.
 ### **Sound Effects Included:**
 
 * Collision sound when hitting a police car
-* Car engine sound
 * Powerup sound 
 
 ### **Particle Effects:**
 
-* Explosion or sparks on collision 
+* Explosion or sparks Power up pickup
 
 ### **Background Music:**
 
@@ -145,3 +144,4 @@ If I had more time, I would add:
 * A garage with car customizations
 * Multiplayer mode
 * New Map
+* Fix Raycast Jitter

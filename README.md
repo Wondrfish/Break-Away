@@ -97,6 +97,7 @@ Example assets list—replace with yours:
 * Map → SimplePoly City - Low Poly Assets - VenCreations
 * car models → Simple Cars Pack - MyxerMan
 * PowerUps → Simple Gems and Items Ultimate Animated Customizable Pack - BenjaTheMaker
+* Particals → Cartoon FX Remaster Free - Jean Moreno
 
 ### **Where You Got the Items:**
 
@@ -131,6 +132,7 @@ Yes. A looping soundtrack plays while in the game.
 ### **Where the Sounds/Music Came From:**
 
 * NInntendo Wii Shop
+* Vine Boom
 ---
 
 ## **10. Backlog (5pts)**
